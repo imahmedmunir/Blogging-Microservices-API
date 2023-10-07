@@ -7,8 +7,11 @@ This is a Spring Boot-based microservice project that provides RESTful APIs for 
 Features
 
 User Registration: Provides APIs for user registration and authentication using JWT tokens.
+
 Blog Creation: Allows users to create blog posts by selecting a category.
+
 Blog Reading: Provides endpoints for users to read blogs.
+
 Commenting: Allows users to leave comments on blogs.
 
 Technologies Used
